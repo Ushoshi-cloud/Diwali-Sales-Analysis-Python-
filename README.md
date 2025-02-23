@@ -7,12 +7,17 @@ This project analyzes Diwali sales data to extract insights on customer purchasi
 📊 Key Objectives
 
 Understand customer demographics and purchasing patterns.
+
 Identify top-selling products and categories.
+
 Analyze sales trends based on region, age group, and gender.
+
 Generate insights for marketing and business decision-making.
 
 🛠 Tools Used
 
 Python / Pandas: For data processing and analysis.
+
 Matplotlib / Seaborn: For data visualization.
+
 Jupyter Notebook: For interactive data exploration.
